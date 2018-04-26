@@ -29,6 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/nigho/node-multi-hashing.git",
+        "btcnodejs": "git://github.com/machinecoin-project/btcnodejs.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
